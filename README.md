@@ -1,4 +1,4 @@
-# Hand Gesture Mouse Control
+# Camsor: Hand Gesture Mouse Control
 
 This project uses computer vision to control the mouse cursor with hand gestures captured via a webcam. It leverages MediaPipe Hands for hand detection and tracking, allowing the right hand to move the cursor and the left hand to perform clicks when forming a fist.
 
