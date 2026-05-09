@@ -3,7 +3,7 @@
 This project uses computer vision to control the mouse cursor with hand gestures captured via a webcam. It leverages MediaPipe Hands for hand detection and tracking, allowing the right hand to move the cursor and the left hand to perform clicks when forming a fist.
 
 ## Features
-- **Cursor Movement**: Move the cursor using the topmost point of the right hand.
+- **Cursor Movement**: Move the cursor using the topmost point of the right hand or just the index finger.
 - **Click Detection**: Perform a left-click by making a fist with the left hand.
 - **Smooth Cursor Control**: Uses exponential moving average for smooth cursor movement.
 - **Optimized Performance**: Processes hand detection every few frames to reduce CPU usage.
